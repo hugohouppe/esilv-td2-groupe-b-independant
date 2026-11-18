@@ -1,0 +1,452 @@
+{
+  "C01": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 792800,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 792800,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 792800
+  },
+  "C02": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 590320,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": false,
+      "value": null,
+      "votes": 2,
+      "models": []
+    },
+    "reference": 590320
+  },
+  "C03": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 936350,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 936350,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 936350
+  },
+  "C04": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 2826250,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 2826250,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 2826250
+  },
+  "C05": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 38480,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 38480,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 38480
+  },
+  "C06": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 0,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 0,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 0
+  },
+  "C07": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 13970,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 13970,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 13970
+  },
+  "C08": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 605580,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 605580,
+      "votes": 4,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "reference": 605580
+  },
+  "C09": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 487980,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 487980,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "reference": 487980
+  },
+  "C10": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 558980,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 558980,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "reference": 558980
+  },
+  "C11": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 446690,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 446690,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "reference": 446690
+  },
+  "C12": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 1666490,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 1666490,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 1666490
+  },
+  "C13": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 107740,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 107740,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 107740
+  },
+  "C14": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 0,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 0,
+      "votes": 5,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "groq:qwen/qwen3.8-27b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 0
+  },
+  "C15": {
+    "fixed_2_of_3": {
+      "consensus": false,
+      "value": null,
+      "votes": 1,
+      "models": []
+    },
+    "all_3_of_5": {
+      "consensus": false,
+      "value": null,
+      "votes": 2,
+      "models": []
+    },
+    "reference": 168680
+  },
+  "C16": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 376740,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 376740,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free"
+      ]
+    },
+    "reference": 376740
+  },
+  "C17": {
+    "fixed_2_of_3": {
+      "consensus": false,
+      "value": null,
+      "votes": 1,
+      "models": []
+    },
+    "all_3_of_5": {
+      "consensus": false,
+      "value": null,
+      "votes": 2,
+      "models": []
+    },
+    "reference": 258180
+  },
+  "C18": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 62480,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 62480,
+      "votes": 4,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 62480
+  },
+  "C19": {
+    "fixed_2_of_3": {
+      "consensus": false,
+      "value": null,
+      "votes": 1,
+      "models": []
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 1990,
+      "votes": 3,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 1990
+  },
+  "C20": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 1106090,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "openrouter:cohere/north-mini-code:free"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": true,
+      "value": 1106090,
+      "votes": 4,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:openai/gpt-oss-20b",
+        "openrouter:cohere/north-mini-code:free",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    },
+    "reference": 1106090
+  }
+}

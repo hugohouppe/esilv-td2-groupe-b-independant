@@ -1,0 +1,6 @@
+{
+  "python": "3.14.3",
+  "sqlite": "3.52.0",
+  "platform": "Windows",
+  "network_calls": 0
+}

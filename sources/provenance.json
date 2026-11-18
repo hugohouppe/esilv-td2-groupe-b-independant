@@ -1,0 +1,103 @@
+{
+  "retrieved_on": "2026-11-18",
+  "official_pack": "2026-11-18-students-5",
+  "independence": "Aucun dépôt ni livrable TD2 du groupe avec Claude consulté. Seuls les éléments TD1 et les sources officielles sont réutilisés.",
+  "files": [
+    {
+      "path": "data/boutique.sqlite",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/data/boutique.sqlite",
+      "nature": "official_download",
+      "sha256": "0077e235adc2ca647b484e3083c98a6d7cae3ef3655ce366a299caf13398fec2"
+    },
+    {
+      "path": "data/customers.csv",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/data/customers.csv",
+      "nature": "official_download",
+      "sha256": "f3053b6a89036a9cc426649798283b70dc882fc2d18034cde52e85614252100a"
+    },
+    {
+      "path": "data/manifest.json",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/data/manifest.json",
+      "nature": "official_download",
+      "sha256": "4a0198d976aa30e64cc329f6a414aff08f7cd58a6acccad196e13ccbfcd9fa26"
+    },
+    {
+      "path": "data/orders.csv",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/data/orders.csv",
+      "nature": "official_download",
+      "sha256": "5c92d3c6d2797b1ee007144c8d4bf2e43b8883037d893339d680205204988452"
+    },
+    {
+      "path": "data/product.csv",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/data/product.csv",
+      "nature": "official_download",
+      "sha256": "f4b41301a5bc3e03362215448d67d2439fc38352436c6b4cda57b9f2b5797e64"
+    },
+    {
+      "path": "sources/atelier-vote.py",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/atelier-vote.py",
+      "nature": "official_download",
+      "sha256": "964ab78c8507cf8721b03c623f52f145fa519876925ec18cf468f2d75a623dca"
+    },
+    {
+      "path": "sources/enonce-td2-en.md",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/enonce-td2-en.md",
+      "nature": "official_download",
+      "sha256": "1123a98a4da18b8a3ca171cda01ea2cd2edc41a82adf00044c5cacbc7dc85ada"
+    },
+    {
+      "path": "sources/questions-td1.json",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/questions-td1.json",
+      "nature": "official_download",
+      "sha256": "0afbc6c36eed725ebaa9c5c29bf3c6558746a04d232a2678a492864d22e9da1e"
+    },
+    {
+      "path": "sources/reference-values-td1-en.md",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/reference-values-td1-en.md",
+      "nature": "official_download",
+      "sha256": "3b1f34f0d41752221016d84b8652a4513158f9ef39a40dff9c6b40ca6b5df5fc"
+    },
+    {
+      "path": "sources/schema.sql",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/schema.sql",
+      "nature": "official_download",
+      "sha256": "fe25401e81549a61cbf074e2ceea9845430afebaa072e5ac6680136f3a0c0104"
+    },
+    {
+      "path": "sources/skeleton-multi-llm-en.py",
+      "source": "https://storage.googleapis.com/docs.g.quanticfactory.io/ESILV/next-generation-ai/latest/students/kit-td1/skeleton-multi-llm-en.py",
+      "nature": "official_download",
+      "sha256": "55abb7d86d40e18534b9d6b1f91e467a0eebcec55d98bdcbe9de1769e070e17d"
+    },
+    {
+      "path": "sources/skeleton-td1-original.py",
+      "source": "Kit TD1 local esilv-student-2026-10-18/kit-td1/skeleton-multi-llm-en.py",
+      "nature": "recovered_td1",
+      "sha256": "55abb7d86d40e18534b9d6b1f91e467a0eebcec55d98bdcbe9de1769e070e17d"
+    },
+    {
+      "path": "traces-td1.csv",
+      "source": "Téléchargements / traces-td1.csv ; traces également identiques dans DIA1-G2_TD1.zip",
+      "nature": "recovered_td1",
+      "sha256": "58264ac4a987f1cbfc16f9d598815c2af151f20c0ced15601563c2b223e7742e"
+    },
+    {
+      "path": "reference-td1.csv",
+      "source": "Téléchargements / reference-td1.csv ; traces également identiques dans DIA1-G2_TD1.zip",
+      "nature": "recovered_td1",
+      "sha256": "40a5809f9e47ea86db003785d6833cf98633bd3b0d22a3a4d1e359bea67035d5"
+    },
+    {
+      "path": "sandbox_sqlite.py",
+      "source": "Kit TD1 local esilv-student-2026-10-18/kit-td1/sandbox_sqlite.py",
+      "nature": "recovered_td1",
+      "sha256": "4072b04ae67420cdb2c1993fe9463ce113f5b2a9e6816e8c2f6677181e433cc0"
+    },
+    {
+      "path": "prompts/schema-td1.sql",
+      "source": "Kit TD1 local esilv-student-2026-10-18/kit-td1/schema.sql",
+      "nature": "recovered_td1",
+      "sha256": "fe25401e81549a61cbf074e2ceea9845430afebaa072e5ac6680136f3a0c0104"
+    }
+  ]
+}

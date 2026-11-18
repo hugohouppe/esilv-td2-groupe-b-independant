@@ -1,0 +1,21 @@
+{
+  "nature": "post_hoc_vote_on_stored_real_traces",
+  "warning": "Panel illustratif choisi après observation, distinct du panel officiel.",
+  "panel": [
+    "groq:openai/gpt-oss-20b",
+    "openrouter:dots-studio/dots-3-note-preview:free",
+    "openrouter:cohere/north-mini-code:free"
+  ],
+  "k": 2,
+  "n": 3,
+  "decision": {
+    "consensus": true,
+    "value": 0,
+    "votes": 2,
+    "models": [
+      "groq:openai/gpt-oss-20b",
+      "openrouter:dots-studio/dots-3-note-preview:free"
+    ]
+  },
+  "reference": 590320
+}

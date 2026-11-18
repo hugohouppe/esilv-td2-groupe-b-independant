@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.sqlite binary
+traces-td1.csv -text
+reference-td1.csv -text
+data/*.csv -text
+data/manifest.json -text
+sources/* -text
+sandbox_sqlite.py -text
+prompts/schema-td1.sql -text

@@ -1,0 +1,17 @@
+$ python -m unittest discover -s tests -v
+test_age_boundaries_with_synthetic_dates (test_td2.CaseTests.test_age_boundaries_with_synthetic_dates) ... ok
+test_delta_identifies_wrong_additions_too (test_td2.CaseTests.test_delta_identifies_wrong_additions_too) ... ok
+test_inputs_and_last_attempts (test_td2.CaseTests.test_inputs_and_last_attempts) ... ok
+test_queries_delta_and_independent_csv (test_td2.CaseTests.test_queries_delta_and_independent_csv) ... ok
+test_real_shared_case_and_hand_count (test_td2.CaseTests.test_real_shared_case_and_hand_count) ... ok
+test_unavailable_attempt_not_replaced_by_old_success (test_td2.CaseTests.test_unavailable_attempt_not_replaced_by_old_success) ... ok
+test_duplicate_even_if_unavailable (test_td2.VoteTests.test_duplicate_even_if_unavailable) ... ok
+test_errors_do_not_vote_or_reduce_n (test_td2.VoteTests.test_errors_do_not_vote_or_reduce_n) ... ok
+test_four_official_examples (test_td2.VoteTests.test_four_official_examples) ... ok
+test_invalid_thresholds (test_td2.VoteTests.test_invalid_thresholds) ... ok
+test_winning_models_and_integer_cents (test_td2.VoteTests.test_winning_models_and_integer_cents) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.247s
+
+OK

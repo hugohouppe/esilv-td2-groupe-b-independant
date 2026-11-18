@@ -1,0 +1,66 @@
+{
+  "source_records": 106,
+  "final_cells": 100,
+  "retries": 6,
+  "final_verdicts": {
+    "correct": 78,
+    "incorrect": 18,
+    "sql_invalid": 1,
+    "sql_rejected": 1,
+    "not_executed": 2
+  },
+  "shared_wrong_cases": [
+    {
+      "case_id": "C02",
+      "value": 0,
+      "reference": 590320,
+      "models": [
+        "groq:openai/gpt-oss-20b",
+        "openrouter:dots-studio/dots-3-note-preview:free"
+      ]
+    }
+  ],
+  "replayed_queries": 96,
+  "verified_references": 20,
+  "prompt_checks": 20,
+  "c02_values": {
+    "m1-gpt20b.sql": 0,
+    "m2-dots.sql": 0,
+    "reference-c02.sql": 590320
+  },
+  "c02_quorums": {
+    "fixed_2_of_3": {
+      "consensus": true,
+      "value": 590320,
+      "votes": 2,
+      "models": [
+        "groq:openai/gpt-oss-120b",
+        "groq:qwen/qwen3.8-27b"
+      ]
+    },
+    "all_3_of_5": {
+      "consensus": false,
+      "value": null,
+      "votes": 2,
+      "models": []
+    },
+    "reference": 590320
+  },
+  "delta_customers": 6,
+  "delta_order_lines": 82,
+  "delta_total_cents": 590320,
+  "predicates": {
+    "first_order": "2026-01-06 21:23:30",
+    "last_order": "2026-09-20 19:24:25",
+    "m1_customers": 0,
+    "m2_birthday_customers": 1,
+    "m2_order_lines": 0
+  },
+  "m2_ablations": {
+    "birthday_only_all_orders_cents": 135000,
+    "correct_age_wrong_order_window_cents": 0,
+    "correct_age_all_orders_cents": 590320
+  },
+  "database_sha256": "0077e235adc2ca647b484e3083c98a6d7cae3ef3655ce366a299caf13398fec2",
+  "network_calls": 0
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "case_id": "C02",
+    "value": 0,
+    "reference": 590320,
+    "models": [
+      "groq:openai/gpt-oss-20b",
+      "openrouter:dots-studio/dots-3-note-preview:free"
+    ]
+  }
+]
